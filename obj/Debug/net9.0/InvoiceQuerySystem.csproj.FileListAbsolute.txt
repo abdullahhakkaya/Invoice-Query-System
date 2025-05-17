@@ -1,0 +1,14 @@
+/Users/abdullah/Downloads/14 - Odev3/InvoiceQuerySystem/bin/Debug/net9.0/InvoiceQuerySystem
+/Users/abdullah/Downloads/14 - Odev3/InvoiceQuerySystem/bin/Debug/net9.0/InvoiceQuerySystem.deps.json
+/Users/abdullah/Downloads/14 - Odev3/InvoiceQuerySystem/bin/Debug/net9.0/InvoiceQuerySystem.runtimeconfig.json
+/Users/abdullah/Downloads/14 - Odev3/InvoiceQuerySystem/bin/Debug/net9.0/InvoiceQuerySystem.dll
+/Users/abdullah/Downloads/14 - Odev3/InvoiceQuerySystem/bin/Debug/net9.0/InvoiceQuerySystem.pdb
+/Users/abdullah/Downloads/14 - Odev3/InvoiceQuerySystem/obj/Debug/net9.0/InvoiceQuerySystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullah/Downloads/14 - Odev3/InvoiceQuerySystem/obj/Debug/net9.0/InvoiceQuerySystem.AssemblyInfoInputs.cache
+/Users/abdullah/Downloads/14 - Odev3/InvoiceQuerySystem/obj/Debug/net9.0/InvoiceQuerySystem.AssemblyInfo.cs
+/Users/abdullah/Downloads/14 - Odev3/InvoiceQuerySystem/obj/Debug/net9.0/InvoiceQuerySystem.csproj.CoreCompileInputs.cache
+/Users/abdullah/Downloads/14 - Odev3/InvoiceQuerySystem/obj/Debug/net9.0/InvoiceQuerySystem.dll
+/Users/abdullah/Downloads/14 - Odev3/InvoiceQuerySystem/obj/Debug/net9.0/refint/InvoiceQuerySystem.dll
+/Users/abdullah/Downloads/14 - Odev3/InvoiceQuerySystem/obj/Debug/net9.0/InvoiceQuerySystem.pdb
+/Users/abdullah/Downloads/14 - Odev3/InvoiceQuerySystem/obj/Debug/net9.0/InvoiceQuerySystem.genruntimeconfig.cache
+/Users/abdullah/Downloads/14 - Odev3/InvoiceQuerySystem/obj/Debug/net9.0/ref/InvoiceQuerySystem.dll
